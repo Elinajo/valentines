@@ -91,7 +91,7 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            Congratulations! You have completed the game.
+            Proficiat! You have completed the game bigman x
           </motion.h2>
         )}
         {step === 1 && (
@@ -103,7 +103,7 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            I have a surprise for you!
+            Ik heb nog een verassing voor u my love x!
           </motion.h2>
         )}
         {step === 2 && (
@@ -175,8 +175,8 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            Thank you for accepting, I love you! 💕
-            <p className="text-sm mt-4">For more information, write me!!! 💌</p>
+            I love you babytjee ! 💕
+            <p className="text-sm mt-4">PS: Je moet uw Elijah-abonement betaling nog fixen x !!! 💌</p>
             <Image
               src="/hamster_jumping.gif"
               alt="Hamster Feliz"
